@@ -1,0 +1,5 @@
+{
+  "name": "StoryMapper AI",
+  "description": "An agency-grade User Story Map generator that visualizes product backlogs into Activities, Tasks, and Release slices using Gemini AI.",
+  "requestFramePermissions": []
+}
